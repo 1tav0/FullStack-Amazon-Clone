@@ -1,3 +1,6 @@
+#What is this Project About:
+This is a full-stack Amazon clone with front-end and back-end functionality using ReactJS, Webhooks, Stripe Checkout, Firestore, Firebase hosting, and Firebase Google Authentication. The back-end API is built using Node.js with Express, and the server-side functionality is tested locally using Firebase Functions Emulators.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
